@@ -1,0 +1,11 @@
+#status-bar {
+	-moz-appearance: none;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	background-color: #aaa;
+}
+
+#status-bar statusbarpanel {
+	background-image: url('data:image/gif;base64,R0lGODlhAQABAIAAANvf7wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==') !important;
+	background-color: transparent !important;
+}

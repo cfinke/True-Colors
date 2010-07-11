@@ -1,0 +1,5 @@
+content        true-colors                jar:chrome/true-colors.jar!/content/
+skin	       true-colors   classic/1.0  jar:chrome/true-colors.jar!/skin/
+
+overlay        chrome://browser/content/browser.xul         chrome://true-colors/content/overlay.xul
+style          chrome://browser/content/browser.xul         chrome://true-colors/skin/browser.css

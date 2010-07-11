@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>true_colors@efinke.com</em:id>
+		<em:name>True Colors</em:name>
+		<em:version>1.1</em:version>
+		<em:description>Blends colors from webpages into the tab bar and status bar.</em:description>
+		<em:creator>Christopher Finke</em:creator>
+		<em:iconURL>chrome://true-colors/skin/icon.png</em:iconURL>
+		<em:homepageURL>http://www.chrisfinke.com/addons/true-colors/</em:homepageURL>
+		
+		<!-- Firefox -->
+		
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+				<em:minVersion>3.5</em:minVersion>
+				<em:maxVersion>3.6.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+		
+	</Description>   
+</RDF>
