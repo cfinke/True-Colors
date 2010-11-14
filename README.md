@@ -1,0 +1,1 @@
+True Colors is a Firefox extension that bleeds the colors from the web page you're viewing into the tab bar and status bar. Think of it as Ambilight for your browser.
